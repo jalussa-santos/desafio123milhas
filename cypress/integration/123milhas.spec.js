@@ -6,6 +6,6 @@ describe('123milhas', () => {
   })
 
   it('Buscar hotel', () => {
-    cy.get('#hoteis > .nav-link > .description-tab').click()
+
   })
 })
