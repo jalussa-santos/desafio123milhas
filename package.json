@@ -1,0 +1,24 @@
+{
+  "name": "desafio123milhas",
+  "version": "1.0.0",
+  "description": "desafio123milhas",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx standard",
+    "lint:fix": "npx standard --fix",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Jalussa dos Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "faker": "^5.5.3",
+    "standard": "^16.0.3"
+  }
+}
